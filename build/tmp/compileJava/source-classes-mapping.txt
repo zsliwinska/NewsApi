@@ -1,0 +1,12 @@
+pl/zuz/News/NewsApplication.java
+ pl.zuz.News.NewsApplication
+pl/zuz/News/webclient/news/dto/OpenNewsNewsDto.java
+ pl.zuz.News.webclient.news.dto.OpenNewsNewsDto
+pl/zuz/News/webclient/news/dto/Articles.java
+ pl.zuz.News.webclient.news.dto.Articles
+pl/zuz/News/webclient/news/NewsClient.java
+ pl.zuz.News.webclient.news.NewsClient
+pl/zuz/News/service/NewsService.java
+ pl.zuz.News.service.NewsService
+pl/zuz/News/controller/NewsController.java
+ pl.zuz.News.controller.NewsController
